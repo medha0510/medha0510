@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @medha0510
 - 👀 I’m interested in Problem Solving and Python Development.
-- 🌱 I’m currently learning Django and Machine Learning.
-- 💞️ I’m looking to brush up my skills and excel in Python Development.
+- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me medha94.official@gmail.com
